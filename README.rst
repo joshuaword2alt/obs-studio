@@ -41,6 +41,8 @@ Quick Links
 
 - SourceForge: https://sourceforge.net/projects/obs-studio.mirror/
 
+- Steam: https://store.steampowered.com/app/1905180/OBS_Studio/
+
 Contributing
 ------------
 
