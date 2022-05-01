@@ -39,6 +39,8 @@ Quick Links
 
 - Bug Tracker: https://github.com/obsproject/obs-studio/issues
 
+- SourceForge: https://sourceforge.net/projects/obs-studio.mirror/
+
 Contributing
 ------------
 
